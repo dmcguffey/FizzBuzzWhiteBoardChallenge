@@ -1,0 +1,15 @@
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\bin\Debug\net6.0\FizzBuzzWhiteBoardChallenge.exe
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\bin\Debug\net6.0\FizzBuzzWhiteBoardChallenge.deps.json
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\bin\Debug\net6.0\FizzBuzzWhiteBoardChallenge.runtimeconfig.json
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\bin\Debug\net6.0\FizzBuzzWhiteBoardChallenge.dll
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\bin\Debug\net6.0\FizzBuzzWhiteBoardChallenge.pdb
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\FizzBuzzWhiteBoardChallenge.csproj.AssemblyReference.cache
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\FizzBuzzWhiteBoardChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\FizzBuzzWhiteBoardChallenge.AssemblyInfoInputs.cache
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\FizzBuzzWhiteBoardChallenge.AssemblyInfo.cs
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\FizzBuzzWhiteBoardChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\FizzBuzzWhiteBoardChallenge.dll
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\refint\FizzBuzzWhiteBoardChallenge.dll
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\FizzBuzzWhiteBoardChallenge.pdb
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\FizzBuzzWhiteBoardChallenge.genruntimeconfig.cache
+C:\Users\dmcgu\source\repos\FizzBuzzWhiteBoardChallenge\FizzBuzzWhiteBoardChallenge\obj\Debug\net6.0\ref\FizzBuzzWhiteBoardChallenge.dll
